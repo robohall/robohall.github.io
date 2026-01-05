@@ -1,0 +1,13 @@
+
+# RStudio files
+.Rproj.user/
+
+# R session artifacts
+.Rhistory
+.RData
+.Ruserdata
+
+# OS junk
+.DS_Store
+Thumbs.db
+/.quarto/
