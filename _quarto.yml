@@ -8,8 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: research.qmd
+        text: Research
+      - href: lab_group.qmd
+        text: Lab Group
+      - href: stream_ecology.qmd
+        text: Stream Ecology class
+      - href: ecomodels.qmd
+        text: Ecological models class
+        
+    right:
+      - icon: "github" 
+        href: "https://github.com/robohall"
 
 format:
   html:

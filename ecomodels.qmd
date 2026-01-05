@@ -1,0 +1,6 @@
+---
+title: ""
+---
+
+### Ecological Models and Data
+is a graduate class in learning to fit custom models from your discipline to data using Bayesian inference.  
