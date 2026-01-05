@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "lab_group.html",
+    "href": "lab_group.html",
+    "title": "Lab Group",
+    "section": "",
+    "text": "Deepika Sahoo, Postdoc, Oceanographic biogeochemistry\nCora Steibach, M.S. River metabolism linked to algae biomass in the Gallatin River\nAndrew Britton, M.S. Models for cattle impacts to Great Basin streams (with Matt Trentman at UM O’Connor Center)\nSean Bertalot, Ph.D at University of Wyoming"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "robohall.github.io",
+    "title": "Bob Hall",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome. I am a river ecosystem ecologist at Flathead Lake Bio Station, University of Montana.\nPublications\nCV\n\n Robert O. Hall, Jr."
+  },
+  {
+    "objectID": "stream_ecology.html",
+    "href": "stream_ecology.html",
+    "title": "Stream Ecology Class",
+    "section": "",
+    "text": "This class is a field-based exploration of sites along the Middle Fork Flathead River. Students spend 4 days floating and camping along the river The following week we analyze samples and data and write a paper. Students from any college can take this class. You will get wet! And maybe hear a wolf howl.\nClass and enrollment information\n\n\n\nBonecrusher Rapid"
+  },
+  {
+    "objectID": "ecomodels.html",
+    "href": "ecomodels.html",
+    "title": "Bob Hall",
+    "section": "",
+    "text": "Ecological Models and Data\nis a graduate class in learning to fit custom models from your discipline to data using Bayesian inference."
   }
 ]

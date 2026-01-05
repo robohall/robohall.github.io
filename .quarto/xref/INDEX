@@ -4,5 +4,17 @@
   },
   "about.qmd": {
     "about.html": "0c55afdc"
+  },
+  "lab_group.qmd": {
+    "lab_group.html": "3754b7f6"
+  },
+  "research.qmd": {
+    "research.html": "fa2b321b"
+  },
+  "stream_ecology.qmd": {
+    "stream_ecology.html": "6485a76f"
+  },
+  "ecomodels.qmd": {
+    "ecomodels.html": "cdd2cc58"
   }
 }
