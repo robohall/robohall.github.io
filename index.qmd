@@ -1,11 +1,16 @@
 ---
-title: "robohall.github.io"
+title: ""
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome.  I am a river ecosystem ecologist at [Flathead Lake Bio Station](https://flbs.umt.edu/newflbs), University of Montana.
 
-```{r}
-1 + 1
-```
+[Publications](https://scholar.google.com/citations?user=UDfwrOkAAAAJ&hl=en)
+
+[CV](pics/hall-cv.pdf)
+
+
+![](pics/Hall_raft.JPG)
+
+
+<span class="visually-hidden"> Robert O. Hall, Jr.
